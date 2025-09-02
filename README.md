@@ -6,7 +6,6 @@ Tujuan analisis:
 - Melihat tren penjualan harian
 - Mengetahui produk terlaris dan kontribusi kategori
 - Menganalisis efektivitas promo
-- Membandingkan metode pembayaran yang digunakan pelanggan
 
 ## Tools
 - Python (Pandas, Matplotlib, Seaborn)
