@@ -14,5 +14,5 @@ Tujuan analisis:
 
 ## Files
 - `201904 sales reciepts.csv` → dataset dummy
-- `notebooks/coffee_sales_analysis.ipynb` → notebook analisis
-- `dashboard/coffee_sales_dashboard.png` → dashboard penjualan
+- `coffee_sales_analysis.ipynb` → notebook analisis
+- `coffee_sales_dashboard.png` → dashboard penjualan
